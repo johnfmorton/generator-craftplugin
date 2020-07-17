@@ -28,7 +28,7 @@ use craft\helpers\Json;
  * type of field it is. The system comes with a handful of field types baked in,
  * and we’ve made it extremely easy for plugins to add new ones.
  *
- * https://craftcms.com/docs/plugins/field-types
+ * https://docs.craftcms.com/v3/extend/field-types.html
  *
  * @author    <%- pluginAuthorName %>
  * @package   <%= pluginHandle %>
